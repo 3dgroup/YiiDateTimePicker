@@ -15,3 +15,5 @@ Place this code in your view page
         'htmlOptions' => array(),
     ));
 ```
+
+Full DateTimePicker options list you can see at [DateTimePicker Official Page](http://xdsoft.net/jqplugins/datetimepicker/)
