@@ -11,7 +11,7 @@ Place this code in your view page
 ```php
     $this->widget('ext.YiiDateTimePicker.jqueryDateTime', array(
         'model' => $model,
-        'attribute' => 'date_start',
+        'attribute' => 'attribute',
         'options' => array(), //DateTimePicker options
         'htmlOptions' => array(),
     ));
