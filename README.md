@@ -3,6 +3,7 @@
 
 ### Install
 Create in your extensions folder YiiDateTimePicker folder.
+
 Move downloaded files to YiiDateTimePicker extension folder.
 
 ### Usage
